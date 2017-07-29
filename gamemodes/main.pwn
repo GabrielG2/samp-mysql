@@ -27,7 +27,7 @@
 #define SCRIPT_VERSION_MAJOR							0
 #define SCRIPT_VERSION_MINOR							1
 #define SCRIPT_VERSION_PATCH							0
-#define SCRIPT_VERSION_NAME								"GTA:Missions"
+#define SCRIPT_VERSION_NAME								"RPG"
 
 // Database
 #define MySQL_HOST		"localhost"
